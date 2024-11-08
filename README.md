@@ -8,7 +8,7 @@ Soy estudiante de desarrollo de software con un enfoque en Python, Git, Bash, y 
 - **En aprendizaje**: HTML y CSS
 
 ### Mis proyectos
-- **En Progreso
+- [Casino](https://github.com/GonzalezA-Raul/Proyecto_Casino)
 
 Encuéntrame también en [LinkedIn](https://www.linkedin.com/in/raul-gonz%C3%A1lez-alguacil-316082266/).
 
